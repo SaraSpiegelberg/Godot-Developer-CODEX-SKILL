@@ -1,0 +1,6 @@
+interface:
+  display_name: "Godot Developer"
+  short_description: "Godot architecture, debugging, and migration copilot"
+  icon_small: "./assets/godot-icon.svg"
+  icon_large: "./assets/godot-logo.png"
+  default_prompt: "Use $godot-developer to plan and implement a Godot project with clear architecture and risk checks."
